@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+Demonstrates the effectiveness of the Markov decision precess. Ran through the terminal with varying commands of 'java SmallGrid 0.99 1e-6 1 -1 -0.04' or 'java SmallGrid DISCOUNT_FACTOR, EPSILON, POS TERMINAL, NEG TERMINAL, NON TERMINAL REWARD'
